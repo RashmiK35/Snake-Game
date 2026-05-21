@@ -7,4 +7,5 @@
 <ul>
 <li>index.html - Simple HTML page to open in a browser and the styling of the page written in style tag.</li>
 <li>script.js - Functionality for the snake game.</li>
+<li>[Link](https://rashmik35.github.io/Snake-Game/)
 </ul>
